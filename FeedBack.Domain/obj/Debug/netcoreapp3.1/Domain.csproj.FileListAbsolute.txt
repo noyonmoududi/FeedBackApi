@@ -1,0 +1,9 @@
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Domain\obj\Debug\netcoreapp3.1\Domain.pdb

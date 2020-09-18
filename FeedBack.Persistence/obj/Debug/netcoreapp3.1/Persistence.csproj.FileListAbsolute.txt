@@ -1,0 +1,15 @@
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\bin\Debug\netcoreapp3.1\Domain.dll
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\bin\Debug\netcoreapp3.1\Domain.pdb
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.json
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.dev.json
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+H:\BS-23 TEST\Noyon\FeedBack\FeedBack.Persistence\obj\Debug\netcoreapp3.1\Persistence.genruntimeconfig.cache
